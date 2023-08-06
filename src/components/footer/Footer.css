@@ -1,0 +1,30 @@
+.footer {
+    border-top: 1px solid rgb(127 130 156 / 20%);
+    padding-bottom: 25px;
+}
+.address {
+    text-align: center;
+    color: #7F829C;
+    font-size: 16px;
+}
+.privacy-policy {
+    text-align: end;
+}
+.privacy-policy p {
+    margin-bottom: 0;
+    color: #344097;
+}
+.privacy-policy span {
+    color: #7F829C;
+}
+.footer-info h5 {
+    font-size: 30px;
+    font-weight: 300;
+    color: #344097;
+}
+.footer-info p {
+    color: #000;
+}
+.footer-info p span {
+    color:#808080 ;
+}

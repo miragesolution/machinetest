@@ -1,0 +1,27 @@
+.faq .head {
+    font-size: 80px;
+    color: #344097; 
+    font-weight: 200;   
+} 
+.accordion-content {
+    font-size: 36px;
+    font-weight: 200;  
+    color: #7F829C;
+    padding: 25px 0;
+}
+.accordion-title {
+    color: #344097;
+    font-size: 34px;
+    font-weight: 200;
+    line-height: 54px;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.accordion {
+    border-bottom: 1px solid #dee2e6;
+}
+.accordion-icon {
+    display: inline-block;
+    cursor: pointer;
+}
