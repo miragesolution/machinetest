@@ -6,7 +6,7 @@ import Faq from './components/faq/Faq';
 import Footer from './components/footer/Footer';
 import { Container  } from 'react-bootstrap';
 import Video from './components/video/Video';
-
+import Add from './components/add/Add';
 function App() {
   const service = [
      {subhead: "BMW", head: 'Digital\nShowroom', desc: "#AGMC #BMW #Mini #E-commerce #oOrjit", image: "bmw",},
@@ -32,6 +32,7 @@ const faqItems = [
 <Faq faqItems={faqItems}/>
 <Container>
   <Video />
+  <Add />
   <Footer />
 </Container>
 
